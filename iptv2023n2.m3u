@@ -1,0 +1,35 @@
+#EXTM3U 
+#EXTINF: -1 tvg-chno="1" group-title="TR", TRT 1
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="TR", ATV
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF: -1 tvg-chno="10" group-title="TR", KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF: -1 tvg-chno="14" group-title="TR", STAR TV
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF: -1 tvg-chno="12" group-title="TR", SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="TR", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF: -1 tvg-chno="9" group-title="TR", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF: -1 tvg-chno="17" group-title="TR", TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF: -1 tvg-chno="6" group-title="TR", FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="TR", A SPOR
+http://cms.tivigo.xyz:80/serkanyuksel/SERkan1983/1643
+#EXTINF: -1 tvg-chno="5" group-title="TR", CNN TURK
+https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF: -1 tvg-chno="7" group-title="TR", HABER TURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF: -1 tvg-chno="8" group-title="TR", HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF: -1 tvg-chno="11" group-title="TR", KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF: -1 tvg-chno="13" group-title="TR", SHOW TV
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
+#EXTINF: -1 tvg-chno="15" group-title="TR", TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR", 2TR: NTVSPOR HD
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
