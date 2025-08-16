@@ -1,13 +1,15 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/atv-tr.png"group-title="Ulusal":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-
-#EXTINF:-1 tvg-name="Show TV"tvg-id="Show TV.tr"tvg-logo="https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="Kanal D.tr"tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/654b42b5ebc830246465c497.jpg"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
+#EXTM3U x-tvg-url="https://m3u-ip.tv/demo-epg.php" catchup-type="shift"
+#EXTINF:0 tvg-country="US" tvg-id="RedBull" tvg-logo="https://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="MotorvisionTV.de" status="timeout" group-title="Sport",Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:0 tvg-id="QVCJapan" tvg-name="QVCJapan" tvg-country="JP" group-title="Shopping",QVC (Japan)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:0 tvg-id="CosmosTv" tvg-name="CosmosTv" tvg-country="AR" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Music",Cosmos Tv (Argentina)
+https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="CACHI" tvg-name="CACHI" group-title="Community" tvg-logo="https://m3u-ip.tv/demo/tv-cachi.png",TV Cachí (Costa Rica)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvcachi/playlist.m3u8
+#EXTINF:-1 tvg-id="DashTest" tvg-name="DashTest" group-title="Test",DASH MPEG Test (with subtitles)
+http://dash.edgesuite.net/akamai/test/caption_test/ElephantsDream/elephants_dream_480p_heaac5_1.mpd
